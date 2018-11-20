@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "crsewrk", "crsewrk\crsewrk.csproj", "{56859DFD-8E27-493E-BE7F-C7028B906661}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{56859DFD-8E27-493E-BE7F-C7028B906661}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{56859DFD-8E27-493E-BE7F-C7028B906661}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{56859DFD-8E27-493E-BE7F-C7028B906661}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{56859DFD-8E27-493E-BE7F-C7028B906661}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2E42B37D-025A-4DA0-B485-B6AFE346FF00}
+	EndGlobalSection
+EndGlobal

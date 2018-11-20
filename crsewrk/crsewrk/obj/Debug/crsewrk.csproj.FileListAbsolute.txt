@@ -1,0 +1,14 @@
+c:\users\mj2031o\source\repos\crsewrk\crsewrk\bin\Debug\crsewrk.exe.config
+c:\users\mj2031o\source\repos\crsewrk\crsewrk\bin\Debug\crsewrk.exe
+c:\users\mj2031o\source\repos\crsewrk\crsewrk\bin\Debug\crsewrk.pdb
+c:\users\mj2031o\source\repos\crsewrk\crsewrk\obj\Debug\crsewrk.csprojResolveAssemblyReference.cache
+c:\users\mj2031o\source\repos\crsewrk\crsewrk\obj\Debug\crsewrk.QuizPage.resources
+c:\users\mj2031o\source\repos\crsewrk\crsewrk\obj\Debug\crsewrk.StartPage.resources
+c:\users\mj2031o\source\repos\crsewrk\crsewrk\obj\Debug\crsewrk.Properties.Resources.resources
+c:\users\mj2031o\source\repos\crsewrk\crsewrk\obj\Debug\crsewrk.csproj.GenerateResource.Cache
+c:\users\mj2031o\source\repos\crsewrk\crsewrk\obj\Debug\crsewrk.csproj.CoreCompileInputs.cache
+c:\users\mj2031o\source\repos\crsewrk\crsewrk\obj\Debug\crsewrk.exe
+c:\users\mj2031o\source\repos\crsewrk\crsewrk\obj\Debug\crsewrk.pdb
+c:\users\mj2031o\source\repos\crsewrk\crsewrk\obj\Debug\crsewrk.UserControl1.resources
+c:\users\mj2031o\source\repos\crsewrk\crsewrk\obj\Debug\crsewrk.UserControl2.resources
+c:\users\mj2031o\source\repos\crsewrk\crsewrk\obj\Debug\crsewrk.UserControl3.resources
